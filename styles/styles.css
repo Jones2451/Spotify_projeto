@@ -72,6 +72,14 @@ body {
     font-size: 12px;
     margin-right: 12px;
     margin-bottom: 12px;
+    transition: 0.2s;
+    
+}
+
+.nav-footer a:hover{
+    padding: 5px 10px;
+    cursor: pointer;
+    color: #fff;
 }
 
 .nav-lang-button {
